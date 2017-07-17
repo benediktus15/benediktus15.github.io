@@ -52,3 +52,17 @@ Far far away, behind the word mountains, far from the countries Vokalia and Cons
 ```
 
 
+### Github
+```
+https://github.com/benediktus15/benediktus15.github.io.github
+
+echo "# benediktus15.github.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/benediktus15/benediktus15.github.io.git
+git push -u origin master
+
+git remote add origin https://github.com/benediktus15/benediktus15.github.io.git
+git push -u origin master
+```
